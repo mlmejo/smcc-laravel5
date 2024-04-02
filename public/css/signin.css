@@ -1,0 +1,19 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background-color: #304d80;
+}
+
+.form-signin {
+  max-width: 400px;
+  padding: 15px;
+}
+
+.img-login {
+    background-image: url('/img/technical_department.png');
+    background-size: cover;
+    background-position: center;
+}

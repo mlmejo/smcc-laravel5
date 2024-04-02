@@ -1,0 +1,20 @@
+table {
+    width: 100%;
+}
+
+th,
+td {
+    border: 1px solid gray !important;
+    padding: 8px !important;
+}
+
+.table-header {
+    writing-mode: vertical-lr;
+    transform: rotate(180deg);
+    vertical-align: middle !important;
+}
+
+/* Utils */
+.text-align-bottom {
+    vertical-align: bottom !important;
+}
